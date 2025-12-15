@@ -1,5 +1,7 @@
 Customer & Orders Analysis (SQL)
 
+Author: Nazira Babadjanova
+
 This project analyzes customer orders to understand revenue distribution
 and customer behavior.
 
@@ -16,3 +18,4 @@ Insights:
 - Electronics generate higher revenue than Furniture
 - A small number of customers generate most of the revenue
 - Some countries outperform others in total sales
+  
